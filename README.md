@@ -51,4 +51,4 @@ Ready to dive into the mystery? Follow these steps to get the project running lo
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/enigma-of-anime.git](https://github.com/yourusername/enigma-of-anime.git)
+git clone 
