@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](https://github.com/)
 [![Anime](https://img.shields.io/badge/Anime-100%25-ff69b4?style=for-the-badge&logo=myanimelist)](https://github.com/)
 
-*(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Welcome to the most adorable anime enigma repository on the internet!
+*(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Welcome to the most adorable anime enigma repository on the interneet!
 
 </div>
 
